@@ -1,0 +1,26 @@
+.container{
+    background-color: brown;
+    width: 300px;
+    padding: 20px;
+}
+.image img{
+    width: 60px;
+    height: 50;
+    padding: 20px;
+    border-radius: 60px;
+    border: 10px solid red;
+    margin-left:80px;
+}
+.title{
+    color: rgb(47, 246, 140);
+    text-align: center;
+}
+.hi{
+    margin-left: 90px;
+    color: dodgerblue;
+}
+.lorem{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
